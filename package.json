@@ -1,0 +1,8 @@
+
+{
+  "name": "healthcare-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "echo 'React frontend placeholder'"
+  }
+}
